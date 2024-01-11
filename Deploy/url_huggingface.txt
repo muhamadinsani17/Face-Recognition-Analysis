@@ -1,0 +1,3 @@
+berikut link deploy url huggingface :
+
+https://huggingface.co/spaces/Muhamadinsani17/Predicted_Gender_Ethnicity_and_Age
