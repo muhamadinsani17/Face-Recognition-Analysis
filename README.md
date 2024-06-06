@@ -1,4 +1,4 @@
-# Multimodal-Facial-Analysis-Predicting-Gender-Ethnicity-and-Age-Using-Deep-CNN-and-Transfer-Learning
+# Face Recognition Analysis
 
 ## Background
 ### Problem Statement
